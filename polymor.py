@@ -1,4 +1,4 @@
-# Animal base class
+# base class
 class Animal:
     def move(self):
         print("The animal moves...")
